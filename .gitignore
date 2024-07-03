@@ -51,6 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Visual Studio Code
+*.code-workspace
 # Translations
 *.mo
 *.pot
